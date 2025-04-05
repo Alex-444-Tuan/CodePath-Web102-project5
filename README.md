@@ -1,4 +1,4 @@
-# Web Development Project 5 - *Name of App Here*
+# Web Development Project 5 - *AQI*
 
 Submitted by: **Tuan Tran**
 
@@ -40,10 +40,18 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<div>
+    <a href="https://www.loom.com/share/d87d9c3e07ba4549a9f57ea6192601f2">
+      <p>Vite + React - 5 April 2025 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/d87d9c3e07ba4549a9f57ea6192601f2">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/d87d9c3e07ba4549a9f57ea6192601f2-0d88754c3d903888-full-play.gif">
+    </a>
+  </div>
+
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Loom
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows

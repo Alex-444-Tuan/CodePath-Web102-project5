@@ -1,23 +1,23 @@
-# Web Development Project 5 - *AQI*
+# Web Development Project 5 - *Alert!*
 
 Submitted by: **Tuan Tran**
 
 This web app: **showing the AQI index of specific city in the US**
 
-Time spent: **3** hours spent in total
+Time spent: **9** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] **The site has a dashboard displaying a list of data fetched using an API call**
+- [x] **The site has a dashboard displaying a list of data fetched using an API call**
   - The dashboard should display at least 10 unique items, one per row
   - The dashboard includes at least two features in each row
-- [ ] **`useEffect` React hook and `async`/`await` are used**
-- [ ] **The app dashboard includes at least three summary statistics about the data** 
+- [x] **`useEffect` React hook and `async`/`await` are used**
+- [x] **The app dashboard includes at least three summary statistics about the data** 
   - The app dashboard includes at least three summary statistics about the data, such as:
     - *insert details here*
-- [ ] **A search bar allows the user to search for an item in the fetched data**
+- [x] **A search bar allows the user to search for an item in the fetched data**
   - The search bar **correctly** filters items in the list, only displaying items matching the search query
   - The list of results dynamically updates as the user types into the search bar
 - [ ] **An additional filter allows the user to restrict displayed items by specified categories**
@@ -39,13 +39,12 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
 <div>
-    <a href="https://www.loom.com/share/d87d9c3e07ba4549a9f57ea6192601f2">
-      <p>Vite + React - 5 April 2025 - Watch Video</p>
+    <a href="https://www.loom.com/share/2f3ab0857760458689715974fb24813e">
+      <p>Vite + React - 7 April 2025 - Watch Video</p>
     </a>
-    <a href="https://www.loom.com/share/d87d9c3e07ba4549a9f57ea6192601f2">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/d87d9c3e07ba4549a9f57ea6192601f2-0d88754c3d903888-full-play.gif">
+    <a href="https://www.loom.com/share/2f3ab0857760458689715974fb24813e">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/2f3ab0857760458689715974fb24813e-578adf6a8e5ecf8e-full-play.gif">
     </a>
   </div>
 
